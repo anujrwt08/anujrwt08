@@ -48,14 +48,6 @@
 </div>
 
 ---
-## 🎮 Fun Contribution Graph  
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnujRawat08/AnujRawat08/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnujRawat08/AnujRawat08/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AnujRawat08/AnujRawat08/output/pacman-contribution-graph.svg" height="200">
-</picture>
-</div>
 
 
 ## 🐍 Bonus – Snake Eating Contributions  
