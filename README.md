@@ -27,9 +27,29 @@
 ---
 
 ## 🚀 Languages & Tools  
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,php,mysql,mongodb,nodejs,react,ts,html,css,tailwind,figma,postman,linux,aws,nextjs,go,rust,nestjs,graphql,matlab,photoshop" />
+
+### 🧠 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,py,php,ts,go,rust,matlab" />
+
+### 🌐 Web & App Development
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,nestjs,graphql" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=linux,aws,figma,postman,photoshop" />
+
 </div>
+
+
+---
+### Linux System Adminstration
+
+* ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+* ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -51,6 +71,7 @@
 <p>
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrwt08&theme=react"></a>
 </p>
+
 
 ## 🐍 Bonus – Snake Eating Contributions  
 <div align="center">
