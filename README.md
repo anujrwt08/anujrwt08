@@ -48,7 +48,9 @@
 </div>
 
 ---
-
+<p>
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrwt08&theme=react"></a>
+</p>
 
 ## 🐍 Bonus – Snake Eating Contributions  
 <div align="center">
