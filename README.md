@@ -54,10 +54,15 @@
 ---
 
 ## 📊 GitHub Analytics  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujrwt08&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anujrwt08&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="160" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=anujrwt08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=anujrwt08&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujrwt08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
 
 ---
 
