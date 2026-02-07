@@ -82,15 +82,6 @@
 
 
 
-
----
-
-## 🏆 Achievements & Streaks  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anujrwt08&theme=tokyonight&hide_border=false&border_radius=10" height="160" />
-  <img src="https://github-profile-trophy.vercel.app/?username=anujrwt08&theme=tokyonight&no-frame=true&row=1&column=6" height="160"/>
-</div>
-
 ---
 <p>
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrwt08&theme=react"></a>
