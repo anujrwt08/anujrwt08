@@ -42,27 +42,6 @@
 
 </div>
 
----
-
-
-## 🚀 Languages & Tools  
-
-<div align="center">
-
-### 🧠 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,py,php,ts,go,rust,matlab" />
-
-### 🌐 Web & App Development
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,nestjs,graphql" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=linux,aws,figma,postman,photoshop" />
-
-</div>
-
 
 ---
 ### Linux System Adminstration
