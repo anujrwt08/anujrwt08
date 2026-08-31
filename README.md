@@ -66,8 +66,3 @@
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anujrwt08&theme=react"></a>
 </p>
 
-
-## 🐍 Bonus – Snake Eating Contributions  
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
